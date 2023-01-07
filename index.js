@@ -1,9 +1,10 @@
+#!/usr/bin/env node
 'use strict'
 // Pull in our modules
-const chalk = require('chalk')
-const boxen = require('boxen')
-const fs = require('fs')
-const path = require('path')
+const chalk = require('chalk');
+import boxen from boxen;
+const fs = require('fs');
+const path = require('path');
 // Define options for Boxen
 const options = {
   padding: 1,

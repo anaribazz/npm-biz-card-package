@@ -17,7 +17,7 @@
   "dependencies": {
     "anaribas": "^1.11.0",
     "boxen": "^7.0.1",
-    "chalk": "^5.2.0",
+    "chalk": "^4.1.2",
     "fs": "^0.0.1-security"
   }
 }

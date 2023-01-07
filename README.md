@@ -1,11 +1,13 @@
-#Virtual Business Card
+### Virtual Business Card
 
 This NPM Package is my virtual business card. Want to create one too?
 
 ```bash
 $ npm install anaribas
+```
+```bash
 $ npx anaribas
-``` bash
+```
 
 And get in touch!
 

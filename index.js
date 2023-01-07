@@ -2,7 +2,7 @@
 'use strict'
 // Pull in our modules
 const chalk = require('chalk');
-import boxen from boxen;
+const boxen = require('boxen');
 const fs = require('fs');
 const path = require('path');
 // Define options for Boxen

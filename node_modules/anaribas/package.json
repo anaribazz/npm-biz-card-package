@@ -1,0 +1,20 @@
+{
+  "name": "anaribas",
+  "version": "1.9.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "biz-card": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "anaribas",
+  "license": "ISC",
+  "dependencies": {
+    "anaribas": "^1.1.0"
+  }
+}

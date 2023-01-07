@@ -1,10 +1,10 @@
 {
   "name": "anaribas",
-  "version": "1.10.0",
+  "version": "1.12.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "biz-card": "index.js"
+    "biz-card": "node --experimental-modules index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +15,9 @@
   "author": "anaribas",
   "license": "ISC",
   "dependencies": {
-    "anaribas": "^1.1.0"
+    "anaribas": "^1.11.0",
+    "boxen": "^7.0.1",
+    "chalk": "^5.2.0",
+    "fs": "^0.0.1-security"
   }
 }

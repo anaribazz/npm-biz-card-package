@@ -1,13 +1,15 @@
-### Virtual Business Card
+### 📦 Installation
 
-This NPM Package is my virtual business card. Want to create one too?
+Installation is not required, as you can run this package with npx.
 
 ```bash
-$ npm install anaribas
-```
+🥑 Usage
+```bash
+npx anaribas
+
 ```bash
 $ npx anaribas
 ```
 
-And get in touch!
+
 
